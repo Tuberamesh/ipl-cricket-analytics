@@ -112,7 +112,7 @@
 ---
 
 ### 🏆 Most Wins by Team
-![Team Wins](charts/team_wins.png)
+![Team Wins](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/Most_wins_by_team.png)
 
 ---
 
