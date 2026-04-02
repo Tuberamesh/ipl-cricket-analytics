@@ -137,7 +137,7 @@
 ---
 
 ### ⚡ Average Runs per Over (Powerplay vs Death)
-![Overs](charts/over_analysis.png)
+![Overs](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/avg_runs_per_over.png)
 
 ---
 
