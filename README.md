@@ -117,7 +117,7 @@
 ---
 
 ### 📈 Season-wise Run Trends (2008–2020)
-![Season Runs](charts/season_runs.png)
+![Season Runs](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/Season_wise_total_runs.png)
 
 ---
 
