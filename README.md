@@ -107,7 +107,7 @@
 ## 📊 Visualizations
 
 ### 🏏 Top 10 Run Scorers — All Time
-![Top Batsmen](charts/top_batsmen.png)
+![Top Batsmen](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/top_10_run_scorer.png)
 
 ---
 
