@@ -122,7 +122,7 @@
 ---
 
 ### 👑 Virat Kohli — Year-wise Performance
-![Kohli](charts/kohli_performance.png)
+![Kohli](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/virat_kohli_season_wise_analysis.png)
 
 ---
 
