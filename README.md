@@ -71,33 +71,35 @@
 ## 📂 Project Structure
 
 ```
-📁 ipl-data-analysis/      
+📁 IPL Data Analysis/
 │
-├── 📓 ipl_analysis.ipynb                      ← Main notebook (EDA + SQL + plots)
-├── 📁 Raw data/
-│    ├──  📄 matches.csv                        ← 816 matches, 18 columns 
-│    └──  📄 deliveries.csv                     ← 179,078 rows, 21 columns
+├── 📓 IPL Data Analysis.ipynb     ← Main notebook (EDA + analysis)
+│
+├── 📁 raw data/
+│   ├── matches.csv                 ← 816 matches, 18 columns 
+│   └── deliveries.csv              ← 179,078 rows, 21 columns
 │
 ├── 📁 charts/
-│   ├── top_battrs.png
-│   ├── team_wins.png
-│   ├── season_wise_runs.png
-│   ├── kohli_performance.png
-│   ├── top_bowlers.png
+│   ├── top_10_run_scorer.png
+│   ├── Most_wins_by_team.png
+│   ├── Season_wise_total_runs.png
+│   ├── virat_kohli_season_wise_analysis.png
+│   ├── top_10_wicket_takers.png
 │   ├── toss_impact.png
-│   ├── over_analysis.png
-│   └── tableau_dashboard.png
+│   └── avg_runs_per_over.png
 │
-├── 📊 tableau_top_batsmen.csv
-├── 📊 tableau_team_wins.csv
-├── 📊 tableau_season_runs.csv
-├── 📊 tableau_top_bowlers.csv
-├── 📊 tableau_toss_impact.csv
-├── 📊 tableau_venues.csv
-├── 📊 tableau_potm.csv
-├── 📊 tableau_kohli.csv
+├── 📁 Tableau_data/
+│   ├── tableau_top_batsmen.csv
+│   ├── tableau_team_wins.csv
+│   ├── tableau_season_runs.csv
+│   ├── tableau_top_bowlers.csv
+│   ├── tableau_toss_impact.csv
+│   ├── tableau_venues.csv
+│   ├── tableau_potm.csv
+│   └── tableau_kohli.csv
 │
-└── 📄 README.md
+├── 📄 README.md
+└── 📄 .gitignore
 ```
 
 ---
