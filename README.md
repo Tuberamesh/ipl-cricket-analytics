@@ -232,8 +232,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ipl-data-analysis.git
-cd ipl-data-analysis
+git clone https://github.com/Tuberamesh/ipl-cricket-analytics.git
+cd ipl-cricket-analytics
 
 # Install dependencies
 pip install pandas matplotlib seaborn
