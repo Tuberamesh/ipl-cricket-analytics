@@ -127,7 +127,7 @@
 ---
 
 ### 🎳 Top 10 Wicket Takers
-![Bowlers](charts/top_bowlers.png)
+![Bowlers](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/top_10_wicket_takers.png)
 
 ---
 
