@@ -254,7 +254,7 @@ B.Tech Data Science · NHCE Bengaluru · Graduating 2028
 [![Instagram](https://img.shields.io/badge/@decoder__space-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/decoder_space/?hl=en)
 [![YouTube](https://img.shields.io/badge/Decoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@The_Decoder_yt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ramesha-g/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuberamesh)
 
 </div>
 
