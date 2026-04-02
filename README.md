@@ -147,7 +147,7 @@
 
 <div align="center">
 
-### 🔗 [https://public.tableau.com/app/profile/ramesh.g8388/viz/IPLDashboard_17746975731930/Dashboard1)
+### 🔗 https://public.tableau.com/app/profile/ramesh.g8388/viz/IPLDashboard_17746975731930/Dashboard1 (live preview)
 
 
 </div>
