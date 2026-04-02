@@ -116,7 +116,7 @@
 
 ---
 
-### 📈 Season-wise Run Trends (2008–2020)
+### 📈 Season-wise Run Trends (2008–2024)
 ![Season Runs](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/Season_wise_total_runs.png)
 
 ---
@@ -132,7 +132,7 @@
 ---
 
 ### 🪙 Toss Decision Win Impact
-![Toss](charts/toss_impact.png)
+![Toss](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/charts/toss_impact.png)
 
 ---
 
@@ -202,7 +202,7 @@
 
 - **Powerplay (overs 1–6)** and **Death overs (16–20)** average **8–10 runs/over**
 - **Middle overs (7–15)** drop to **6–7 runs/over** as batsmen consolidate
-- **Over 19** consistently produces the most runs per match across all 13 seasons
+- **Over 19** consistently produces the most runs per match across all 17 seasons
 
 </details>
 
