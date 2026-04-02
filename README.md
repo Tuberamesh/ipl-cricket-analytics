@@ -143,12 +143,12 @@
 
 ## 🖥️ Tableau Dashboard
 
-![Dashboard](charts/tableau_dashboard.png)
+![Dashboard](https://github.com/Tuberamesh/ipl-cricket-analytics/blob/main/Tableau_data/Tableau%20dashboard.png)
 
 <div align="center">
 
-### 🔗 [View Live Interactive Dashboard →](https://public.tableau.com)
-*(replace with your Tableau Public link)*
+### 🔗 [https://public.tableau.com/app/profile/ramesh.g8388/viz/IPLDashboard_17746975731930/Dashboard1)
+
 
 </div>
 
